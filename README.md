@@ -2,6 +2,11 @@
 to export your list of sub reddit with links
 useful if you want to create a new account following the same old subs
 
+
+
+
+
+
  (❁´◡`❁)
 ##<b>HOW TO USE IT</b>
 
@@ -11,6 +16,10 @@ Before that, you have to find the div name that contains the subreddit list
 look for it under the home button using the inspector tool ..find it 
 
 and replace it with #DIVCONTAINERonSUBREDDITLISTunderHOME inside the code
+
+
+
+
 
 
 ### _how it works_
