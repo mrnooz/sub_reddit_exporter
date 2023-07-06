@@ -1,5 +1,19 @@
 # Sub Reddit Exporter
-to export your sub reddit list with links
+to export your list of sub reddit with links
+useful if you want to create a new account following the same old subs
+
+ (❁´◡`❁)
+##<b>HOW TO USE IT</b>
+
+This JavaScript will work on the console (press F12 in your browser). 
+
+Before that, you have to find the div name that contains the subreddit list 
+look for it under the home button using the inspector tool ..find it 
+
+and replace it with #DIVCONTAINERonSUBREDDITLISTunderHOME inside the code
+
+
+###_how it works_
 
 This code is designed to extract information from an HTML document and print out the names and corresponding links of certain elements on a webpage. Here's a description of the code:
 
