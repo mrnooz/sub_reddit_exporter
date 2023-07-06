@@ -1,4 +1,4 @@
-# suredditexporter
+# subredditexporter
 to export your sub reddit list with links
 
 This code is designed to extract information from an HTML document and print out the names and corresponding links of certain elements on a webpage. Here's a description of the code:
