@@ -13,7 +13,7 @@ look for it under the home button using the inspector tool ..find it
 and replace it with #DIVCONTAINERonSUBREDDITLISTunderHOME inside the code
 
 
-###_how it works_
+### _how it works_
 
 This code is designed to extract information from an HTML document and print out the names and corresponding links of certain elements on a webpage. Here's a description of the code:
 
